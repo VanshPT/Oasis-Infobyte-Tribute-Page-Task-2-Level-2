@@ -1,0 +1,46 @@
+/* .active{
+    color:
+} */
+.dx{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dx a{
+    color: white;
+    border:2px solid navy;
+}
+.dx a:hover{
+    border-top:2px solid skyblue;
+    border-bottom: 2px solid white;
+    border-radius: 10px;
+}
+.actives{
+    color:yellow;
+}
+.main-quote span{
+    color:navy;
+    padding-right: 15rem;
+    font-size: 1.5rem;
+    font-family: 'Abril Fatface', cursive;
+}
+.bg-blue{
+    background-color: navy;
+}
+.nav-link {
+    display: block;
+    padding: 0.2rem 1rem;
+}
+.heading h1{
+    margin:2rem 2rem;
+}
+.sec{
+    margin:2rem 2rem;
+}
+.inner3{
+    display: flex;
+    justify-content: flex-end;
+}
+.inner3 p{
+    padding-right:3rem;
+}
